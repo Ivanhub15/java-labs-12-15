@@ -1,0 +1,17 @@
+# Compiled files
+*.class
+*.jar
+target/
+out/
+
+# IDE files
+.idea/
+*.iml
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
